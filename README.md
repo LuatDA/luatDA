@@ -56,48 +56,6 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University o
 
 ## Python Projects
 
-### Covid19 in VietNam
-**Code:** [Covid19-VietNam](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/5d5b498446c95947546d8f5e32b97cd982490d4e/Covid-19%20VietNam.ipynb).<br> 
-**Description** The dataset with 289 rows with total Covid 19 cases across Vietnam until May 2020.<br> 
-**Skills**: Data cleaning, dealing with missing values, convert data types, descriptive statistics, data visualization, transform data into different types of dataframe for further study. <br>
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
-**Results:**  Have an overview of the covid 19 situation in Vietnam.<br>
-**Language** Vietnamese
-
-### Used Cars in Europe
-**Code:** [Used Cars in Europe](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/4dce4d41723e0ced711bf691b6e0097222f8e368/Git%20-%20used%20cars%20(1).ipynb).<br> 
-**Description** Analysis based on statistics of 4 major car manufacturers with most market share: BMW, Toyota, Mercedes, Audi and Mercedes with 4 tables, per table have nearly 11000 rows.<br> 
-**Skills**: Convert data types, descriptive statistics, data visualization. <br>
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
-**Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.<br>
-**Language** English
-
-
-### Flights in VietNam
-**Code:** [Flights In VietNam](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/eb911b77483aabbfe363d9e351b07e744201924c/Git%20-%20Flights%20in%20VietNam.ipynb).<br> 
-**Description** 2021 is a year of the Covid 19 epidemic, so how has the aviation industry in Vietnam been affected? The analysis with source data of nearly 19,000 rows will give a more specific analysis.<br> 
-**Skills**: Cleaning data, convert data types, times sSeries aAnalysis ,descriptive statistics, data visualization. <br>
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib .<br>
-**Results:** Provide a specific assessment of revenue, profit, tax among airlines and frequency of flights in provinces.<br>
-**Language** Vietnamese
-
-
-### Customer Segmentation with RFM model
-**Code:** [Customer Segmentation with RFM model](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/5693b5a495f9f00295bf2e1bf8729c6e8bd27528/Customer%20Segmentation%20with%20RFM%20model.ipynb).<br> 
-**Description** Dataset with more 1.000.000 rows and with RFM model is a model that helps business enterprises to classify their customers. Model is based on three quantitative factors namely recency, frequency, and monetary value.<br> 
-**Skills**: Cleaning data, convert data types, times Series Analysis ,descriptive statistics, group by data, data visualization. <br>
-**Technology:** Python, Pandas, Numpy, Matplotlib .<br>
-**Results:** Assess the sales situation of the business, recommend the customer groups to focus on.<br>
-**Language** Vietnamese
-
-
-### Cristiano Ronaldo vs Lionel Messi
-**Code:** [Cristiano Ronaldo vs Lionel Messi](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/d5676415458cd18a41c343527c017a34176a7f7b/CR7%20and%20Messi.ipynb).<br> 
-**Description** Dataset with more 1.500 rows and the data has made comparisons of the performance of Cristiano Ronaldo and Lionel Messi including: playing time, number of goals scored....<br> 
-**Skills**: Cleaning data, convert data types, Times Series Analysis ,clustering data with Lambda, group by data, data visualization. <br>
-**Technology:** Python, Pandas, Numpy, Matplotlib and Express .<br>
-**Results:** Have a look at the playing ability of these 2 famous players.<br>
-**Language** Vietnamese
 
 
 
