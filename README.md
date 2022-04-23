@@ -10,10 +10,6 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Da Nang University
 - [About](#about)
 - [Skill Set](#skill-set)
 - [Python Projects](#python-projects)
-    + [Covid19 in VietNam](#covid19-in-vietnam)
-    + [Used Cars in Europe](#used-cars-in-europe)
-    + [Flights In VietNam](#flights-in-vietnam)
-    + [Customer Segmentation with RFM model](#customer-segmentation-with-rfm-model)
     + [Cristiano Ronaldo vs Lionel Messi](#cristiano-ronaldo-vs-lionel-messi)
 
 **Data Query Tools**
@@ -56,8 +52,13 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Da Nang University
 
 ## Python Projects
 
-
-
+### Cristiano Ronaldo vs Lionel Messi
+**Code:** [Cristiano Ronaldo vs Lionel Messi](https://github.com/LuatDA/Python_of_Data_Visualization/blob/0edaa48c6cb05202914e09c7fadbaf6dfbacd4c2/Kaggle_lambda,_unique,_f_fill,_t%C3%A1ch_date_th%C3%A0nh_s%E1%BB%91,_loc,_bi%E1%BB%83u_%C4%91%E1%BB%93.ipynb).<br> 
+**Description** Dataset with more 1.500 rows and the data has made comparisons of the performance of Cristiano Ronaldo and Lionel Messi including: playing time, number of goals scored....<br> 
+**Skills**: Cleaning data, convert data types, Times Series Analysis ,clustering data with Lambda, group by data, data visualization. <br>
+**Technology:** Python, Pandas, Numpy, Matplotlib and Express .<br>
+**Results:** Have a look at the playing ability of these 2 famous players.<br>
+**Language** Vietnamese
 
 
 
